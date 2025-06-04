@@ -1,0 +1,10 @@
+leakage,percentage_of_set1_in_set2,set1_name,set2_name,set1_path,set2_path
+59254,79,explanations train,interactions train,data/yelp/trn.pkl,data/yelp/total_trn.csv
+7457,10,explanations train,interactions validation,data/yelp/trn.pkl,data/yelp/total_val.csv
+7501,10,explanations train,interactions test,data/yelp/trn.pkl,data/yelp/total_tst.csv
+7444,80,explanations validation,interactions train,data/yelp/val.pkl,data/yelp/total_trn.csv
+934,10,explanations validation,interactions validation,data/yelp/val.pkl,data/yelp/total_val.csv
+899,9,explanations validation,interactions test,data/yelp/val.pkl,data/yelp/total_tst.csv
+2434,81,explanations test,interactions train,data/yelp/tst.pkl,data/yelp/total_trn.csv
+286,9,explanations test,interactions validation,data/yelp/tst.pkl,data/yelp/total_val.csv
+280,9,explanations test,interactions test,data/yelp/tst.pkl,data/yelp/total_tst.csv

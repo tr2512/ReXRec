@@ -1,0 +1,10 @@
+leakage,percentage_of_set1_in_set2,set1_name,set2_name,set1_path,set2_path
+75751,80,explanations train,interactions train,data/google/trn.pkl,data/google/total_trn.csv
+9380,9,explanations train,interactions validation,data/google/trn.pkl,data/google/total_val.csv
+9532,10,explanations train,interactions test,data/google/trn.pkl,data/google/total_tst.csv
+9486,80,explanations validation,interactions train,data/google/val.pkl,data/google/total_trn.csv
+1174,9,explanations validation,interactions validation,data/google/val.pkl,data/google/total_val.csv
+1173,9,explanations validation,interactions test,data/google/val.pkl,data/google/total_tst.csv
+2367,78,explanations test,interactions train,data/google/tst.pkl,data/google/total_trn.csv
+324,10,explanations test,interactions validation,data/google/tst.pkl,data/google/total_val.csv
+309,10,explanations test,interactions test,data/google/tst.pkl,data/google/total_tst.csv

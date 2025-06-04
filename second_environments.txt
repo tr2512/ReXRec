@@ -1,0 +1,11 @@
+evaluate==0.4.3
+json_repair==0.30.0
+sentence_transformers==3.2.1
+torch==2.4.0
+transformers==4.46.3
+vllm==0.6.3.post1
+json_repair==0.30.0
+vllm==0.6.3.post1
+gdown
+git+https://github.com/google-research/bleurt.git
+bert_score

@@ -1,0 +1,134 @@
+{
+    "[Og]Amazon": {
+        "XRec": {
+            "BERTScore_P": 0.41385415475070475,
+            "BERTScore_R": 0.4036644025122126,
+            "BERTScore_F1": 0.40945525935292243,
+            "BERTStability_P": 0.0863,
+            "BERTStability_R": 0.0933,
+            "BERTStability_F1": 0.0817
+        },
+        "XRec (w/o profile)": {
+            "BERTScore_P": 0.4207,
+            "BERTScore_R": 0.3967,
+            "BERTScore_F1": 0.4094,
+            "BERTStability_P": 0.0802,
+            "BERTStability_R": 0.0888,
+            "BERTStability_F1": 0.0772
+        },
+        "XRec (w/o injection)": {
+            "BERTScore_P": 0.4277,
+            "BERTScore_R": 0.4096,
+            "BERTScore_F1": 0.4194,
+            "BERTStability_P": 0.0827,
+            "BERTStability_R": 0.0937,
+            "BERTStability_F1": 0.0810
+        },
+        "XRec (w/o profile & injection)": {
+            "BERTScore_P": 0.4461,
+            "BERTScore_R": 0.3972,
+            "BERTScore_F1": 0.4222,
+            "BERTStability_P": 0.0841,
+            "BERTStability_R": 0.0933,
+            "BERTStability_F1": 0.0810
+        }
+    },
+    "[Og]Google": {
+        "XRec": {
+            "BERTScore_P": 0.46321269917984803,
+            "BERTScore_R": 0.40247114540512363,
+            "BERTScore_F1": 0.43305305947115025,
+            "BERTStability_P": 0.0986,
+            "BERTStability_R": 0.1163,
+            "BERTStability_F1": 0.0935
+        },
+        "XRec (w/o profile)": {
+            "BERTScore_P": 0.4594,
+            "BERTScore_R": 0.4191,
+            "BERTScore_F1": 0.4395,
+            "BERTStability_P": 0.1001,
+            "BERTStability_R": 0.1150,
+            "BERTStability_F1": 0.0931
+        },
+        "XRec (w/o injection)": {
+            "BERTScore_P": 0.4652,
+            "BERTScore_R": 0.4187,
+            "BERTScore_F1": 0.4422,
+            "BERTStability_P": 0.0980,
+            "BERTStability_R": 0.1182,
+            "BERTStability_F1": 0.0951
+        },
+        "XRec (w/o profile & injection)": {
+            "BERTScore_P": 0.4641,
+            "BERTScore_R": 0.4174,
+            "BERTScore_F1": 0.4410,
+            "BERTStability_P": 0.0982,
+            "BERTStability_R": 0.1157,
+            "BERTStability_F1": 0.0935
+        }
+    },
+    "[Og]Yelp": {
+        "XRec": {
+            "BERTScore_P": 0.35411201845990337,
+            "BERTScore_R": 0.3504259874439643,
+            "BERTScore_F1": 0.3527322658679138,
+            "BERTStability_P": 0.1126,
+            "BERTStability_R": 0.1108,
+            "BERTStability_F1": 0.0967
+        },
+        "XRec (w/o profile)": {
+            "BERTScore_P": 0.3814,
+            "BERTScore_R": 0.3451,
+            "BERTScore_F1": 0.3636,
+            "BERTStability_P": 0.1218,
+            "BERTStability_R": 0.1110,
+            "BERTStability_F1": 0.1014
+        },	
+        "XRec (w/o injection)": {
+            "BERTScore_P": 0.4069,
+            "BERTScore_R": 0.3614,
+            "BERTScore_F1": 0.3845,
+            "BERTStability_P": 0.0949,
+            "BERTStability_R": 0.1075,
+            "BERTStability_F1": 0.0853
+        },
+        "XRec (w/o profile & injection)": {
+            "BERTScore_P": 0.4380,
+            "BERTScore_R": 0.3506,
+            "BERTScore_F1": 0.3943,
+            "BERTStability_P": 0.0979,
+            "BERTStability_R": 0.1109,
+            "BERTStability_F1": 0.0890
+        }
+    },
+    "[Re]Amazon": {
+        "XRec": {
+            "BERTScore_P": 0.4563055164515972,
+            "BERTScore_R": 0.4217846377516786,
+            "BERTScore_F1": 0.43962955820560456,
+            "BERTStability_P": 0.0986,
+            "BERTStability_R": 0.1049,
+            "BERTStability_F1": 0.0943    		
+        }
+    },
+    "[Re]Google": {
+        "XRec": {
+            "BERTScore_P": 0.4449966553593986,
+            "BERTScore_R": 0.4237911030823986,
+            "BERTScore_F1": 0.4349325969008108,
+            "BERTStability_P": 0.1004,
+            "BERTStability_R": 0.1107,
+            "BERTStability_F1": 0.0960    	
+        }
+    },
+    "[Re]Yelp": {
+        "XRec": {
+            "BERTScore_P": 0.4382250052082042,
+            "BERTScore_R": 0.420726064347662,
+            "BERTScore_F1": 0.43001207868692776,
+            "BERTStability_P": 0.1002,
+            "BERTStability_R": 0.1076,
+            "BERTStability_F1": 0.0937 		
+        }
+    }
+}
