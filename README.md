@@ -1,7 +1,7 @@
 <div align="center">
 <h3> Revisiting XRec: How Collaborative Signals Influence LLM-Based Recommendation Explanations </h3>
 
-**Authors:** [Catalin E. Brita](https://github.com/C-Brita)\*, [Hieu Nguyen](https://github.com/tr2512)\*, [Lubov Chalakova](https://github.com/LubovCh)\*  [Nikola Petrov](https://github.com/n-p-petrov)\*,
+**Authors:** [Catalin E. Brita](https://github.com/C-Brita)\*, [Hieu Nguyen](https://github.com/tr2512)\*, [Lubov Chalakova](https://github.com/LubovCh)\*,  [Nikola Petrov](https://github.com/n-p-petrov)\*.
 
 </div>
 
